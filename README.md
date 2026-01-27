@@ -2,7 +2,9 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**CRM dashboard** https://lead-love-boost.lovable.app/
+**CRM landing Page** https://sales-sparkle-63.lovable.app/
+**CRM landing Page Easy** https://lead-charm-pro.lovable.app
 
 ## How can I edit this code?
 
